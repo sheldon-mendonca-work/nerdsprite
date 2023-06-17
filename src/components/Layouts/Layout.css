@@ -1,0 +1,14 @@
+main{
+    font-size: 1rem;
+}
+
+.heading2{
+    padding: 1rem;
+    transition: all 0.2s;
+    margin: 0;
+}
+
+.heading2:hover{
+    background-color: black;
+    color: white;
+}
